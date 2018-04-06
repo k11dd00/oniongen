@@ -1,0 +1,4 @@
+colorama
+futures
+pysocks
+beautifulsoup4
